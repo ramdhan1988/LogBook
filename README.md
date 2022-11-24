@@ -6,7 +6,7 @@ Catatan Harian dan Ide dari Seorang Hamba Allah
 2. :writing_hand: [Mendeteksi identias dosen/staf kependidikan/mahasiswa dari dokumen SK kegiatan]()
 3. :writing_hand: [Integrasi sistem informasi kampus pada SISTER (sistem informasi integrasi) kampus]()
 4. :writing_hand: [Semi automatis pada sistem pendataan mahasiswa baru]()
-5. :writing_hand: [SIAKAD - Sistem Informasi Akademik *New idea*]()
+5. :writing_hand: [SIAKAD - Sistem Informasi Akademik (*New idea*)]()
 6. :writing_hand: [Sistem antrian tiket (*New Approach*)]()
 7. ...
 ## Catatan Penelitian
